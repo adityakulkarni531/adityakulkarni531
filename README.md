@@ -31,9 +31,9 @@ This space showcases my work in **Data Science**, **Machine Learning**, **Explor
 
 ## 🧑‍💻 Skills & Technologies
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakulkarni531&layout=compact&theme=radical&langs_count=3" alt="Top Langs">
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakulkarni531&theme=radical" alt="GitHub Streak">
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakulkarni531&layout=compact&theme=radical&langs_count=3" alt="Top Langs">
 
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Web Development:** HTML, CSS, JavaScript  
